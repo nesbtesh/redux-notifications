@@ -1,0 +1,15 @@
+{
+  "name": "nessim-btesh",
+  "version": "1.0.0",
+  "description": "Notifications module for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notifications",
+    "react"
+  ],
+  "author": "Nessim Btesh",
+  "license": "ISC"
+}
